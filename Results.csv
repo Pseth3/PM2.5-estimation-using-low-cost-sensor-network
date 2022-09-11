@@ -1,0 +1,6 @@
+Metric,Base Model,CART,KRR,KNN,Votting Regressor,Bagging using CART,Bagging using KNN,Random Forrest
+Mean Squared Error,96.44,107.96,54.3,69.06,59.88,73.41,74.1,66.99
+MEan Absolute Error,2.88,3.13,2.82,2.63,2.49,2.61,2.6,3.09
+R2 Distance,NA,0.72,0.82,0.78,0.79,0.8,0.77,0.78
+Fit Time,NA,0.06,6.36,0.01,8.35,0.54,0.1,1.6
+Score Time,NA,0.0,0.04,0.02,0.05,0.01,0.09,0.02
